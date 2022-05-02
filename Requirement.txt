@@ -2,6 +2,7 @@ Requirement
 
 streamlit
 datetime
+matplotlib
 matplotlib.pyplot
 pandas_datareader
 yfinance
