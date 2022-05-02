@@ -1,10 +1,10 @@
-Requirement 
 
-streamlit
+
+streamlit==1.8.1
 datetime
-matplotlib
+matplotlib==3.4.3
 matplotlib.pyplot
-pandas_datareader
-yfinance
-fbprophet
+pandas_datareader==0.10.0
+yfinance==0.1.70
+fbprophet==0.7.1
 pyplot
