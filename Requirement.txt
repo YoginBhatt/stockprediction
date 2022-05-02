@@ -1,0 +1,9 @@
+Requirement 
+
+streamlit
+datetime
+matplotlib.pyplot
+pandas_datareader
+yfinance
+fbprophet
+pyplot
